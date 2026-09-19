@@ -13,7 +13,8 @@ class Mahasiswa extends Model
             'nama' => 'Muhammad Shouqi',
             'nim' => '251011700713',
             'kelas' => '03SIFE002',
-            'semester' => 3
+            'semester' => 3,
+            'mata_kuliah' => 'Rekayasa Web'
         ];
     }
 }
